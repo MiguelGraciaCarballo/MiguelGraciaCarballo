@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Gracia</h1>
-<h3 align="center">I am a Software Engineer holding a Videogame Design and Development Degree and finishing a Software Engineering Degree. I'm enthusiastic about sports, cutting-edge technologies and sneakers/streetwear. I like facing new challenges and improving my knowledge and skills.</h3>
+<h3 align="center">I'm enthusiastic about sports, cutting-edge technologies and sneakers/streetwear. I like facing new challenges and improving my knowledge and skills.</h3>
 
 - 🤝 I am a Software Engineer holding a Videogame Design and Development Degree and finishing a Software Engineering Degree with two years of experience working in consulting.
 
